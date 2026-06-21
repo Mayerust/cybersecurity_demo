@@ -82,7 +82,7 @@ cybersecurity_demo/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/cybersecurity_demo.git
+git clone https://github.com/mayerust/cybersecurity_demo.git
 
 cd cybersecurity_demo
 ```
