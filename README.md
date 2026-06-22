@@ -1,8 +1,8 @@
-# CyberSecurity_Demo
+# PersonaX: Human Attack Surface Assessment Platform
 
 ## Overview
 
-CyberSecurity_Demo is an educational cybersecurity awareness project designed for demonstrations in organizations, colleges, workshops, and awareness programs.
+PersonaX is an educational cybersecurity awareness project designed for demonstrations in organizations, colleges, workshops, and awareness programs.
 
 The objective is to demonstrate how attackers can collect sensitive device information simply by convincing a user to click an unknown link or scan an untrusted QR code.
 
@@ -62,7 +62,7 @@ Uses Flask-SocketIO to:
 ## Project Structure
 
 ```text
-cybersecurity_demo/
+PersonaX/
 │
 ├── app.py
 │
@@ -82,9 +82,9 @@ cybersecurity_demo/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mayerust/cybersecurity_demo.git
+git clone https://github.com/mayerust/PersonaX.git
 
-cd cybersecurity_demo
+cd PersonaX
 ```
 
 ### 2. Create Virtual Environment
